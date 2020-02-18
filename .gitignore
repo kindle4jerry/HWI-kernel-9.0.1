@@ -1,0 +1,3 @@
+out/
+kernel/tools/*.img
+kernel/tools/*.gz
